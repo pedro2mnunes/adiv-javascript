@@ -1,6 +1,6 @@
 # Exercícios básicos
 
-**Ajuda: Para ler variáveis no browser, utilize o seguinte código.**
+**Ajuda:**
 
 ```javascript
 const var1 = prompt("Insira a sua primeira variável.");
@@ -13,6 +13,9 @@ console.log(num1 + num2); // 56
 num1 = parseInt(num1);
 num2 = parseInt(num2);
 console.log(num1 + num2); // 11
+num1 = "1.5";
+num1 = parseFloat(num1);
+console.log(num1 + num2); // 1.5
 ```
 
 Escreva um programa em JavaScript que:
