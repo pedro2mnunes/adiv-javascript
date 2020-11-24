@@ -10,12 +10,11 @@ const var2 = prompt("Insira a sua segunda variável.");
 
 Escreva um programa em JavaScript que:
 
-1. Calcule a área de um triângulo com os lados cujo
+1. Calcule a área de um triângulo retângulo com os lados cujo
    tamanho são:
 
    - 5
    - 6
-   - 7
 
 2. Escolha um número aleatório (entre 1 e 10), pergunte ao utilizador por um
    número e responda caso acerte.
