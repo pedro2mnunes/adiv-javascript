@@ -6,6 +6,13 @@
 const var1 = prompt("Insira a sua primeira variável.");
 const var2 = prompt("Insira a sua segunda variável.");
 // etc, etc.
+
+let num1 = "5";
+let num2 = "6";
+console.log(num1 + num2); // 56
+num1 = parseInt(num1);
+num2 = parseInt(num2);
+console.log(num1 + num2); // 11
 ```
 
 Escreva um programa em JavaScript que:
