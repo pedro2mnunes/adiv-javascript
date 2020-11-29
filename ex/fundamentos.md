@@ -1,4 +1,4 @@
-# Exercícios básicos
+# Exercícios fundamentos
 
 **Ajuda:**
 
