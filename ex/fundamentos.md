@@ -18,6 +18,11 @@ num1 = parseFloat(num1);
 console.log(num1 + num2); // 1.5
 ```
 
+**Links:**
+- [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+- [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
 Escreva um programa em JavaScript que:
 
 1. Calcule a área de um triângulo retângulo com os lados cujo
