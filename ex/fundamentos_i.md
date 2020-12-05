@@ -19,6 +19,7 @@ console.log(num1 + num2); // 1.5
 ```
 
 **Links:**
+
 - [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
 - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
 - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
@@ -97,7 +98,8 @@ Escreva um programa em JavaScript que:
       17:20:60
       ```
 
-24. Mostre o conteúdo da janela atual `window`.
+24. Dados 3 números inteiros positivos, mostre `true` caso 2 deles possuam o
+    mesmo algarismo mais à direita. Mostre `false` caso contrário.
 
 25. Mostre a data segundo o seguinte formato:
 
