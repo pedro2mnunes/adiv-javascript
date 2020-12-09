@@ -18,7 +18,7 @@ Escreva um programa em JavaScript que:
 
 3. Capitalize a primeira letra de cada palavra de uma string.
 
-4. Converta um dado número para horas e minutos.
+4. Converta um dado número (em minutos) para horas e minutos.
 
 5. Ordene uma string por ordem alfabética.
 
