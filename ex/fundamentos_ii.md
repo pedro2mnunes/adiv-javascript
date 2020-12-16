@@ -13,7 +13,7 @@ Escreva um programa em JavaScript que:
 2. Substitua cada letra de uma string pela letra seguinte do alfabéto. Exemplo:
 
    ```text
-   Nome -> Opnd
+   Nome -> Opnf
    ```
 
 3. Capitalize a primeira letra de cada palavra de uma string.
